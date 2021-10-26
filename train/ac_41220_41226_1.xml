@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_41220_41226_1.jpg</filename>
+	<path>..\images\ac_41220_41226_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>122</ymin>
+			<xmax>517</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

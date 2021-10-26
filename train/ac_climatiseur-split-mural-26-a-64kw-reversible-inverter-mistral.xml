@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_climatiseur-split-mural-26-a-64kw-reversible-inverter-mistral.jpg</filename>
+	<path>..\images\ac_climatiseur-split-mural-26-a-64kw-reversible-inverter-mistral.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>90</ymin>
+			<xmax>459</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_images103.jpg</filename>
+	<path>..\images\ac_images103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>60</ymin>
+			<xmax>222</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

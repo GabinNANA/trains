@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_61HzjDO4m4L._SX679_.jpg</filename>
+	<path>..\images\ac_61HzjDO4m4L._SX679_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>94</ymin>
+			<xmax>602</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

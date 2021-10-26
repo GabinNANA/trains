@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulb_dataset</folder>
+	<filename>bulb_e59f64fc81b9578cab7590c9016dee73.jpg</filename>
+	<path>..\images\bulb_e59f64fc81b9578cab7590c9016dee73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>170</ymin>
+			<xmax>123</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

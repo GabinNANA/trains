@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bathub_dataset</folder>
+	<filename>bathub_Designer-Acrylic-Bathtub.jpg</filename>
+	<path>..\images\bathub_Designer-Acrylic-Bathtub.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>130</ymin>
+			<xmax>492</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

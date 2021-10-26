@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulb_dataset</folder>
+	<filename>bulb_3220-m0014-m007-m050-asym-m008-m022-lightbulbguide-9193798.jpg</filename>
+	<path>..\images\bulb_3220-m0014-m007-m050-asym-m008-m022-lightbulbguide-9193798.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>192</ymin>
+			<xmax>813</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

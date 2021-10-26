@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulb_dataset</folder>
+	<filename>bulb_images155.jpg</filename>
+	<path>..\images\bulb_images155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>61</ymin>
+			<xmax>233</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

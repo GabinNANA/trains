@@ -1,0 +1,14 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_images93.jpg</filename>
+	<path>..\images\ac_images93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

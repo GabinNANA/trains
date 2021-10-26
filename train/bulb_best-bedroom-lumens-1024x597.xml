@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulb_dataset</folder>
+	<filename>bulb_best-bedroom-lumens-1024x597.jpg</filename>
+	<path>..\images\bulb_best-bedroom-lumens-1024x597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>716</xmin>
+			<ymin>193</ymin>
+			<xmax>766</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

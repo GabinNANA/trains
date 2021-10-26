@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_ensemble-complet-de-climatiseur-split-a-avec-lig.jpg</filename>
+	<path>..\images\ac_ensemble-complet-de-climatiseur-split-a-avec-lig.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>1</ymin>
+			<xmax>290</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

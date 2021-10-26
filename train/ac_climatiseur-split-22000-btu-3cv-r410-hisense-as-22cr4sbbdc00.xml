@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_climatiseur-split-22000-btu-3cv-r410-hisense-as-22cr4sbbdc00.jpg</filename>
+	<path>..\images\ac_climatiseur-split-22000-btu-3cv-r410-hisense-as-22cr4sbbdc00.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>128</ymin>
+			<xmax>393</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

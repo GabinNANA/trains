@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_GLS12I56WGBP-GLS18I56WGBP-small1.jpg</filename>
+	<path>..\images\ac_GLS12I56WGBP-GLS18I56WGBP-small1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>87</ymin>
+			<xmax>372</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

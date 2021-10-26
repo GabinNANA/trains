@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ac_dataset2</folder>
+	<filename>ac_General-Split-AC-1.5-Ton-ASGA-18AHT.jpg</filename>
+	<path>..\images\ac_General-Split-AC-1.5-Ton-ASGA-18AHT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>147</ymin>
+			<xmax>498</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

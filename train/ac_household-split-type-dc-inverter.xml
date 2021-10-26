@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_household-split-type-dc-inverter.png</filename>
+	<path>..\images\ac_household-split-type-dc-inverter.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>161</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>2</ymin>
+			<xmax>266</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bathub_dataset</folder>
+	<filename>bathub_image20.jpeg</filename>
+	<path>..\images\bathub_image20.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>254</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>81</ymin>
+			<xmax>244</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

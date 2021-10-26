@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_climatiseur-split-mural-15cv-12000btu-roch-as-aurm12ktu.jpg</filename>
+	<path>..\images\ac_climatiseur-split-mural-15cv-12000btu-roch-as-aurm12ktu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>156</ymin>
+			<xmax>484</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_Ifb-1-5-3-Star-SDL196030224-1-bde36.jpg</filename>
+	<path>..\images\ac_Ifb-1-5-3-Star-SDL196030224-1-bde36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>995</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>293</ymin>
+			<xmax>833</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

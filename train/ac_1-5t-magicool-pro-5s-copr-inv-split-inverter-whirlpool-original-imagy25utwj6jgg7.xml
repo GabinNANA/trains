@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ac_dataset2</folder>
+	<filename>ac_1-5t-magicool-pro-5s-copr-inv-split-inverter-whirlpool-original-imagy25utwj6jgg7.jpeg</filename>
+	<path>..\images\ac_1-5t-magicool-pro-5s-copr-inv-split-inverter-whirlpool-original-imagy25utwj6jgg7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>165</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>7</ymin>
+			<xmax>399</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulb_dataset</folder>
+	<filename>bulb_abstract-swinging-light-bulb-dark-room-hanging-sways-toward-camera-then-settles-47018881.jpg</filename>
+	<path>..\images\bulb_abstract-swinging-light-bulb-dark-room-hanging-sways-toward-camera-then-settles-47018881.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>66</ymin>
+			<xmax>219</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

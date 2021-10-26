@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bathub_dataset</folder>
+	<filename>bathub_fbb9ef116d51bd7638e980d9b494fef916857e68_original.jpeg</filename>
+	<path>..\images\bathub_fbb9ef116d51bd7638e980d9b494fef916857e68_original.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bathub</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>252</ymin>
+			<xmax>800</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>

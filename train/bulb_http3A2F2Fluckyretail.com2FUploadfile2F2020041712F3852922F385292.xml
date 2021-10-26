@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bulb_dataset</folder>
+	<filename>bulb_http3A2F2Fluckyretail.com2FUploadfile2F2020041712F3852922F385292.jpg</filename>
+	<path>..\images\bulb_http3A2F2Fluckyretail.com2FUploadfile2F2020041712F3852922F385292.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>405</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>144</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
